@@ -35,7 +35,7 @@ The belly-button challenge consists of the following folders and files:
 
 ## Live Demo
 
-Check out the live app https://github.com/SriPenumatcha/belly-button-challenge.git
+Check out the live app [https://github.com/SriPenumatcha/belly-button-challenge.git]
 
 
 ## How to Use
